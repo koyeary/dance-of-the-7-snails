@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://dev:L01us0817@cluster0.asdvq.mongodb.net/simple-checkout?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
-    "stripeKey": "pk_test_51H5LHsBHBGQzSzD9juY9SuEcN29aSPSDtI2pIosRPM9WPqcYi6ZmonFYAzXhUC9ybfRWEp5OTQcnUa7M9FaFYLOQ00jfZYwGrA",
-    "stripeSecret": "sk_test_51H5LHsBHBGQzSzD9lnlwfiEngrKrGOJ3rmVQ4GSrtL1IrqNmQyTO4oZQW66EaL2l9lYOFbrzOVHeQizjDTo8w2qz00BgzMQuaS"
-}
