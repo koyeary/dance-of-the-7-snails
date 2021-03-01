@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
+import ResponsiveEmbed from 'react-bootstrap/ResponsiveEmbed'
 
 const Player = () => {
   return (
-    <div class='embed-responsive embed-responsive-16by9'>
-      <iframe
-        class='embed-responsive-item'
-        src='https://www.youtube.com/embed/zpOULjyy-n8?rel=0'
-        allowfullscreen
-      ></iframe>
-    </div>
+    <div className='justify-content-center mx-4'>
+    <ResponsiveEmbed aspectRatio="16by9">
+      <iframe type='mp4' title='player' src='/assets/NAKED LADY TRAILER.mp4' />
+    </ResponsiveEmbed>
+  </div>
   );
 };
 
